@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "5dEunld/RjJo2X7iC98B8A4oQ9RSZqlxOqzCEjqRpCFktexHx3V8amKib5+9g7p9e8+AZbk0BJZwIK3mNJ9kAA==",
+  "dgSpecHash": "zfnrC7Mjln9j9AsWdVJ+xIEdBIs0VwPG4jBtdGRJSUN86Z6a0hWlBvM5PizeDAz4+j3MUbEBvb1HBm4bMZ7EvQ==",
   "success": true,
-  "projectFilePath": "/home/anonimous/Escritorio/workspace/docker-swarm/consumer/consumer.csproj",
+  "projectFilePath": "C:\\Users\\toni_\\OneDrive\\Escritorio\\tmp\\kafka-dotnet\\consumer\\consumer.csproj",
   "expectedPackageFiles": [
-    "/home/anonimous/.nuget/packages/confluent.kafka/1.8.2/confluent.kafka.1.8.2.nupkg.sha512",
-    "/home/anonimous/.nuget/packages/librdkafka.redist/1.8.2/librdkafka.redist.1.8.2.nupkg.sha512",
-    "/home/anonimous/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512"
+    "C:\\Users\\toni_\\.nuget\\packages\\confluent.kafka\\1.8.2\\confluent.kafka.1.8.2.nupkg.sha512",
+    "C:\\Users\\toni_\\.nuget\\packages\\librdkafka.redist\\1.8.2\\librdkafka.redist.1.8.2.nupkg.sha512",
+    "C:\\Users\\toni_\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
